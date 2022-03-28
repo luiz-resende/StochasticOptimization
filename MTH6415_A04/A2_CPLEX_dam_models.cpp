@@ -1,5 +1,5 @@
-#ifndef A2_CPLEX_MODELS_CPP
-#define A2_CPLEX_MODELS_CPP
+#ifndef A2_CPLEX_DAM_MODELS_CPP
+#define A2_CPLEX_DAM_MODELS_CPP
 
 #include "A0_definit.h"
 
